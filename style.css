@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+
+.headers{
+    color: white; text-align: center;
+}
+
+#header1{
+    font-family: 'Tilt Prism', cursive; font-size: 32pt;
+    text-transform: capitalize;
+}
+
+#header2{
+    font-family: 'Libre Baskerville', serif; font-size: 14pt;
+}
+
+img{
+    border: 5px solid white; width: 100%;
+}
+
+div{
+    width: 50%; margin-left: 25%; margin-top: 5%;
+}
+
+
